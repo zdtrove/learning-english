@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Section 01",
+    "list": [
+      {
+        "id": 1,
+        "word": "blind",
+        "example": "Love is blind"
+      },
+      {
+        "id": 2,
+        "word": "innocent",
+        "example": "She is rich and innocent"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Section 02",
+    "list": [
+      {
+        "id": 1,
+        "word": "blind 2",
+        "example": "Love is blind 2"
+      },
+      {
+        "id": 2,
+        "word": "innocent 2",
+        "example": "She is rich and innocent"
+      }
+    ]
+  }
+]
