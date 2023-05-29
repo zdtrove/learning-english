@@ -19,7 +19,7 @@ h2 {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 18px;
   transition: 0.4s;
 }
 
@@ -28,7 +28,8 @@ p {
   margin-top: 10px;
   margin-bottom: 3px;
   font-weight: bold;
-  color: darkred;
+  color: blue;
+  font-size: 22px;
 }
 
 p.example {
@@ -36,8 +37,9 @@ p.example {
   font-style: italic;
   font-weight: normal;
   white-space: pre-line;
-  color: grey;
+  color: black;
   margin-top: 0;
+  font-size: 16px;
 }
 
 .item {
@@ -49,4 +51,24 @@ p.example {
   transition: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   transition-property: opacity, height;
   will-change: opacity, contents;
+}
+
+.item p.example:last-child {
+  margin-bottom: 15px;
+}
+
+button {
+  width: 15px;
+  height: 15px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+b {
+  color: black;
+  margin-left: 10px;
+  font-size: 14px;
 }
