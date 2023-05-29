@@ -1,6 +1,7 @@
 * {
   margin: unset;
   padding: unset;
+  font-family: monospace;
 }
 
 .active, h2:hover {
@@ -9,13 +10,11 @@
 
 h2 {
   border: 1px dotted green;
-  padding: 5px;
-  margin-bottom: 10px;
+  padding: 10px;
+  margin-bottom: 1px;
   color: green;
   background-color: #eee;
-  color: #444;
   cursor: pointer;
-  padding: 18px;
   width: 100%;
   border: none;
   text-align: left;
@@ -25,20 +24,29 @@ h2 {
 }
 
 p {
-  margin-left: 20px;
-  margin-bottom: 10px;
+  margin-left: 8px;
+  margin-top: 10px;
+  margin-bottom: 3px;
   font-weight: bold;
+  color: darkred;
 }
 
 p.example {
-  margin-left: 40px;
+  margin-left: 15px;
   font-style: italic;
   font-weight: normal;
+  white-space: pre-line;
+  color: grey;
+  margin-top: 0;
 }
 
 .item {
   padding: 0 18px;
-  display: none;
+  opacity: 0;
+  height: 0;
   background-color: white;
   overflow: hidden;
+  transition: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transition-property: opacity, height;
+  will-change: opacity, contents;
 }

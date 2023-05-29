@@ -1,34 +1,331 @@
 [
   {
-    "id": 1,
-    "title": "Section 01",
+    "title": "LOVE IS BLIND",
     "list": [
       {
-        "id": 1,
         "word": "blind",
         "example": "Love is blind"
       },
       {
-        "id": 2,
         "word": "innocent",
         "example": "She is rich and innocent"
+      },
+      {
+        "word": "helpless",
+        "example": "I am helpless"
+      },
+      {
+        "word": "sparkling",
+        "example": "Your eyes are sparkling"
+      },
+      {
+        "word": "buttering",
+        "example": "Stop buttering me up"
+      },
+      {
+        "word": "blushing",
+        "example": "I am blushing"
+      },
+      {
+        "word": "deserve",
+        "example": "You deserve my compliment"
+      },
+      {
+        "word": "brave",
+        "example": "You just have to be brave"
+      },
+      {
+        "word": "taking off",
+        "example": "My business is taking off day by day"
+      },
+      {
+        "word": "proposal",
+        "example": "You are asking for a proposal for my daughter"
+      },
+      {
+        "word": "objection",
+        "example": "I have no objection"
+      },
+      {
+        "word": "rubbish",
+        "example": "What rubbish!"
+      },
+      {
+        "word": "bush",
+        "example": "Don't beat around the bush"
+      },
+      {
+        "word": "piece of cake",
+        "example": "It is just a piece of cake for me"
+      },
+      {
+        "word": "sparkle",
+        "example": "She runs a sparkle company"
+      },
+      {
+        "word": "heartbeat",
+        "example": "She is my heartbeat"
+      },
+      {
+        "word": "dramatic",
+        "example": "Don't be so dramatic"
+      },
+      {
+        "word": "reality",
+        "example": "Does he know about my reality"
+      },
+      {
+        "word": "investigated",
+        "example": "You investigated Eric's family"
+      },
+      {
+        "word": "fishy",
+        "example": "I knew something was fishy"
+      },
+      {
+        "word": "greedy",
+        "example": "Eric is a greedy man"
+      },
+      {
+        "word": "insisted",
+        "example": "Monica insisted a lot in front of her father"
+      },
+      {
+        "word": "risky",
+        "example": "This is risky mom"
+      },
+      {
+        "word": "defeat",
+        "example": "Nobody can defeat me"
+      },
+      {
+        "word": "put yourself together",
+        "example": "Put yourself together my son"
+      },
+      {
+        "word": "run away",
+        "example": "We have to run away"
+      },
+      {
+        "word": "ashamed",
+        "example": "Your dad will be ashamed in front of Sam's family"
+      },
+      {
+        "word": "force",
+        "example": "He will not force you"
+      },
+      {
+        "word": "interfere",
+        "example": "Don't interfere in our matter"
+      },
+      {
+        "word": "betrayed",
+        "example": "I betrayed my dad"
+      },
+      {
+        "word": "washroom",
+        "example": "Are you in the washroom"
+      },
+      {
+        "word": "forgive",
+        "example": "He will forgive you"
+      },
+      {
+        "word": "insulted",
+        "example": "You insulted us"
+      },
+      {
+        "word": "emotional",
+        "example": "I can't stand this emotional drama"
+      },
+      {
+        "word": "strict",
+        "example": "This old man is very strict"
+      },
+      {
+        "word": "disinherit",
+        "example": "I disinherit you monica"
+      },
+      {
+        "word": "solid",
+        "example": "I have to think a solid plan"
+      },
+      {
+        "word": "torture",
+        "example": "I will torture Monica"
+      },
+      {
+        "word": "devastated",
+        "example": "He is devastated"
+      },
+      {
+        "word": "sharp",
+        "example": "Monica's father is very sharp"
+      },
+      {
+        "word": "deceived",
+        "example": "They deceived me"
+      },
+      {
+        "word": "overheard",
+        "example": "I overheard their conversation"
+      },
+      {
+        "word": "penny",
+        "example": "I will not give you a single penny"
+      },
+      {
+        "word": "cunning",
+        "example": "Cunning is in your blood"
+      },
+      {
+        "word": "otherwise",
+        "example": "Give us our home back, otherwise my son will not sign those papers"
+      },
+      {
+        "word": "get lost",
+        "example": "Get lost! I don't want to see your face"
+      },
+      {
+        "word": "quarter",
+        "example": "There is a servant quarter behind this house"
+      },
+      {
+        "word": "slapped",
+        "example": "She slapped me"
+      },
+      {
+        "word": "kidnap",
+        "example": "We have to kidnap Monica tonight"
+      },
+      {
+        "word": "reminds",
+        "example": "This house reminds you bad memories"
+      },
+      {
+        "word": "restless",
+        "example": "Please forgive me once, my soul is restless"
+      },
+      {
+        "word": "bleeding",
+        "example": "Monica is bleeding"
+      },
+      {
+        "word": "first aid kit",
+        "example": "We will get first aid kit on our way"
+      },
+      {
+        "word": "painkillers",
+        "example": "Did you take some painkillers?"
+      },
+      {
+        "word": "tablet",
+        "example": "I could not find any tablet in the kitchen"
+      },
+      {
+        "word": "panic",
+        "example": "Mom, don't panic"
+      },
+      {
+        "word": "bandage",
+        "example": "First, we have to bandage her head"
+      },
+      {
+        "word": "chase",
+        "example": "I have to chase that car"
+      },
+      {
+        "word": "farmhouse",
+        "example": "We have a farmhouse in a jungle"
+      },
+      {
+        "word": "clever",
+        "example": "Monica's father is very clever"
+      },
+      {
+        "word": "suffocated",
+        "example": "I am feeling suffocated here"
+      },
+      {
+        "word": "deserted",
+        "example": "This place is deserted"
+      },
+      {
+        "word": "tie",
+        "example": "We have to tie him"
+      },
+      {
+        "word": "spinning",
+        "example": "My head is spinning"
+      },
+      {
+        "word": "inform",
+        "example": "I should inform the police"
+      },
+      {
+        "word": "slipped",
+        "example": "I just slipped"
+      },
+      {
+        "word": "trace",
+        "example": "Don't worry we will trace his phone"
+      },
+      {
+        "word": "sacrifice",
+        "example": "You can sacrifice your life for me"
+      },
+      {
+        "word": "figure out",
+        "example": "I have to figure it out"
+      },
+      {
+        "word": "senses",
+        "example": "I have lost my senses"
+      },
+      {
+        "word": "arrest",
+        "example": "Anna, arrest eric and his mom"
+      },
+      {
+        "word": "survive",
+        "example": "Nobody can survive from here"
+      },
+      {
+        "word": "lockup",
+        "example": "I want to stay in a lockup"
+      },
+      {
+        "word": "fate",
+        "example": "This is our fate, we can't do anything"
+      },
+      {
+        "word": "respected",
+        "example": "We should have respected her"
+      },
+      {
+        "word": "stomach",
+        "example": "I have a lot of gas in my stomach"
+      },
+      {
+        "word": "exaggerating",
+        "example": "You are exaggerating now"
+      },
+      {
+        "word": "exhausted",
+        "example": "I am exhausted"
+      },
+      {
+        "word": "bank balance",
+        "example": "I have no home no business no bank balance"
+      },
+      {
+        "word": "snatch",
+        "example": "I will not snatch your love"
       }
     ]
   },
   {
-    "id": 2,
-    "title": "Section 02",
-    "list": [
-      {
-        "id": 1,
-        "word": "blind 2",
-        "example": "Love is blind 2"
-      },
-      {
-        "id": 2,
-        "word": "innocent 2",
-        "example": "She is rich and innocent"
-      }
-    ]
+    "title": "TRIANGLE LOVE",
+    "list": []
   }
 ]
