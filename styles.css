@@ -41,6 +41,8 @@ p {
   font-weight: bold;
   color: blue;
   font-size: 20px;
+  overflow: auto;
+  white-space: nowrap;
 }
 
 p.example {
