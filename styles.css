@@ -4,8 +4,12 @@
   font-family: monospace;
 }
 
-.active, h2:hover {
-  background-color: #ccc; 
+::-webkit-scrollbar-thumb {
+  background-image: linear-gradient(to right bottom, #00f260, #0575e6)
+}
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
 }
 
 h2 {
@@ -15,7 +19,6 @@ h2 {
   color: green;
   background-color: #eee;
   cursor: pointer;
-  width: 100%;
   border: none;
   text-align: left;
   outline: none;
@@ -23,13 +26,21 @@ h2 {
   transition: 0.4s;
 }
 
+b {
+  color: black;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
 p {
-  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  margin-left: 5px;
   margin-top: 10px;
   margin-bottom: 3px;
   font-weight: bold;
   color: blue;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 p.example {
@@ -42,8 +53,12 @@ p.example {
   font-size: 16px;
 }
 
+.active, h2:hover {
+  background-color: burlywood; 
+}
+
 .item {
-  padding: 0 18px;
+  padding: 0 12px;
   opacity: 0;
   height: 0;
   background-color: white;
@@ -57,7 +72,7 @@ p.example {
   margin-bottom: 15px;
 }
 
-button {
+button.showMeaning {
   width: 15px;
   height: 15px;
   display: inline-flex;
@@ -65,10 +80,42 @@ button {
   align-items: center;
   cursor: pointer;
   margin-left: 10px;
+  min-width: 15px;
 }
 
-b {
-  color: black;
-  margin-left: 10px;
-  font-size: 14px;
+.tab {
+  background-color: antiquewhite;
+  overflow: auto;
+  white-space: nowrap;
+  display: flex;
+  margin-bottom: 1px;
+}
+
+.tab button {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  border-right: 1px solid white;
+  font-weight: bold;
+  color: brown;
+}
+
+.tab button:last-child {
+  border: none;
+}
+
+.tab button:hover {
+  background-color: burlywood;
+}
+
+.tab button.active {
+  background-color: burlywood;
+}
+
+.tabContent {
+  display: none;
 }
