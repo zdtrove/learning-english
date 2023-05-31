@@ -116,6 +116,7 @@ button.showMeaning {
 
 .tab button.active {
   background-color: burlywood;
+  color: black;
 }
 
 .tabContent {

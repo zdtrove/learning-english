@@ -11,19 +11,27 @@
 
 <body>
     <div class="tab">
-        <button class="tabLinks" onclick="openCity(event, 'sunshineEnglish')">Sunshine English</button>
-        <button class="tabLinks" onclick="openCity(event, 'englishAtWork')">English At Work</button>
+        <button class="tabLinks" onclick="changeLesson(event, 'sunshineEnglish')">Sunshine English</button>
+        <button class="tabLinks" onclick="changeLesson(event, 'englishAtWork')">English At Work</button>
+        <button class="tabLinks" onclick="changeLesson(event, 'businessEnglish')">Business English</button>
+        <button class="tabLinks" onclick="changeLesson(event, 'englishListening')">English Listening</button>
     </div>
     <div id="sunshineEnglish" class="tabContent">
-        <div class="sunshineEnglishListWord"></div>
+        <div id="sunshineEnglishListWord"></div>
     </div>
     <div id="englishAtWork" class="tabContent">
-        <div class="englishAtWorkListWord"></div>
+        <div id="englishAtWorkListWord"></div>
+    </div>
+    <div id="businessEnglish" class="tabContent">
+        <div id="businessEnglishListWord"></div>
+    </div>
+    <div id="englishListening" class="tabContent">
+        <div id="englishListeningListWord"></div>
     </div>
 </body>
 <script type="module" src="script.js"></script>
 <script>
-    function openCity(evt, cityName) {
+    function changeLesson(evt, lessonName) {
         let i, tabContent, tabLinks;
         tabContent = document.getElementsByClassName("tabContent");
         for (i = 0; i < tabContent.length; i++) {
@@ -33,7 +41,7 @@
         for (i = 0; i < tabLinks.length; i++) {
             tabLinks[i].className = tabLinks[i].className.replace(" active", "");
         }
-        document.getElementById(cityName).style.display = "block";
+        document.getElementById(lessonName).style.display = "block";
         evt.currentTarget.className += " active";
     }
 </script>

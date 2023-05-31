@@ -1,8 +1,12 @@
 import sunshineEnglishData from './sunshineEnglish.json' assert { type: 'json' };
 import englishAtWorkData from './englishAtWork.json' assert { type: 'json' };
+import businessEnglishData from './businessEnglish.json' assert { type: 'json' };
+import englishListeningData from './englishListening.json' assert { type: 'json' };
 
-const sunshineEnglishListWord = document.getElementsByClassName('sunshineEnglishListWord')[0];
-const englishAtWorkListWord = document.getElementsByClassName('englishAtWorkListWord')[0];
+const sunshineEnglishListWord = document.getElementById('sunshineEnglishListWord');
+const englishAtWorkListWord = document.getElementById('englishAtWorkListWord');
+const businessEnglishListWord = document.getElementById('businessEnglishListWord');
+const englishListeningListWord = document.getElementById('englishListeningListWord');
 const h2Accordion = document.getElementsByTagName('h2');
 const arrayEnglish = [
     {
@@ -13,7 +17,15 @@ const arrayEnglish = [
         data: englishAtWorkData,
         listWord: englishAtWorkListWord
     },
-]
+    {
+        data: businessEnglishData,
+        listWord: businessEnglishListWord
+    },
+    {
+        data: englishListeningData,
+        listWord: englishListeningListWord
+    },
+];
 
 arrayEnglish.forEach(({ data, listWord }) => {
     data.forEach((item, index) => {
