@@ -663,9 +663,414 @@
         "example": "I have to check cctv footage"
       },
       {
+        "word": "recover",
+        "meaning": "khỏi bệnh, bình phục",
+        "example": "After one week you will fully recover"
+      },
+      {
         "word": "wheelchair",
         "meaning": "xe lăn",
         "example": "I will not sit on this wheelchair"
+      },
+      {
+        "word": "due to",
+        "meaning": "bởi vì",
+        "example": "Her legs need to rest for a week due to surgery"
+      },
+      {
+        "word": "trick",
+        "meaning": "mưu mẹo, thủ đoạn, mánh khoé",
+        "example": "I hope this trick will work"
+      },
+      {
+        "word": "drown",
+        "meaning": "chết đuối",
+        "example": "You will drown in this washroom"
+      },
+      {
+        "word": "screaming",
+        "meaning": "la lên, thét lên",
+        "example": "She is screaming"
+      },
+      {
+        "word": "stuck",
+        "meaning": "sa lầy, mắc, kẹt, vướng, tắc",
+        "example": "This door is stuck"
+      },
+      {
+        "word": "destiny",
+        "meaning": "vận số, vận mệnh, số phận",
+        "example": "It is my destiny"
+      },
+      {
+        "word": "kidnapper",
+        "meaning": "kẻ bắt cóc",
+        "example": "I have to hire a kidnapper"
+      },
+      {
+        "word": "besides",
+        "meaning": "ngoài ra, hơn nữa, vả lại",
+        "example": "Besides your money is my money"
+      },
+      {
+        "word": "shoot",
+        "meaning": "bắn",
+        "example": "If you say one more word, I will shoot you"
+      },
+      {
+        "word": "red handed",
+        "meaning": "bắt quả tang",
+        "example": "They can't catch me with red handed"
+      },
+      {
+        "word": "freaked out",
+        "meaning": "phát hoảng, hoảng sợ",
+        "example": "You freaked me out, grow up now"
+      },
+      {
+        "word": "prove",
+        "meaning": "chứng tỏ, chứng minh",
+        "example": "You can't prove anything"
+      },
+      {
+        "word": "heart attack",
+        "meaning": "đau tim",
+        "example": "He got heart attack"
+      },
+      {
+        "word": "suffered",
+        "meaning": "đau đớn, đau khổ",
+        "example": "Anna suffered a lot"
+      },
+      {
+        "word": "pity",
+        "meaning": "thương hại",
+        "example": "I pity you Aria"
+      },
+      {
+        "word": "beggar",
+        "meaning": "người ăn mày, người ăn xin",
+        "example": "She is a beggar"
+      },
+      {
+        "word": "proof",
+        "meaning": "chứng cớ, bằng chứng",
+        "example": "Stop being dramatic, we have proof"
+      },
+      {
+        "word": "kind hearted",
+        "meaning": "tốt bụng",
+        "example": "My daughter is very simple, she is a kind hearted girl"
+      },
+      {
+        "word": "behind the bars",
+        "meaning": "phía sau song sắt",
+        "example": "I can send you behind the bars"
+      }
+    ]
+  },
+  {
+    "title": "CRUEL WORLD",
+    "list": [
+      {
+        "word": "mad",
+        "meaning": "phát điên",
+        "example": "We have to finish this work otherwise our boss will mad at us"
+      },
+      {
+        "word": "bossy",
+        "meaning": "hống hách, hách dịch",
+        "example": "He is very bossy"
+      },
+      {
+        "word": "grateful",
+        "meaning": "biết ơn",
+        "example": "We should be grateful for this job, a lot of people don't have jobs"
+      },
+      {
+        "word": "shift",
+        "meaning": "ca, kíp",
+        "example": "I have to go dad, can you cover my shift"
+      },
+      {
+        "word": "landlord",
+        "meaning": "chủ nhà",
+        "example": "Our landlord came today, he was asking about rent"
+      },
+      {
+        "word": "tumor",
+        "meaning": "khối u, u, bướu",
+        "example": "My mom has brain tumor, this cannot be happening"
+      },
+      {
+        "word": "temporary",
+        "meaning": "tạm thời, nhất thời",
+        "example": "I gave her some painkillers, but it is temporary"
+      },
+      {
+        "word": "cured",
+        "meaning": "chữa bênh, điều trị",
+        "example": "Can brain tumor be cured by medicines"
+      },
+      {
+        "word": "permanent",
+        "meaning": "lâu dài, lâu bền",
+        "example": "she can use medicines for a few weeks, but it is not the permanent cure"
+      },
+      {
+        "word": "prescribed",
+        "meaning": "cho đơn, kê đơn",
+        "example": "Doctor prescribed me some medicines, I have to take for a few weeks"
+      },
+      {
+        "word": "treatment",
+        "meaning": "sự điều trị",
+        "example": "We can save money for your treatment"
+      },
+      {
+        "word": "abandon",
+        "meaning": "từ bỏ",
+        "example": "If you don't pay the rent then you have to abandon my house"
+      },
+      {
+        "word": "making excuses",
+        "meaning": "bào chữa, kiếm cớ",
+        "example": "Stop making excuses in front of me, I have been waiting for the last two months"
+      },
+      {
+        "word": "cruel",
+        "meaning": "tàn khốc, tàn nhẫn",
+        "example": "This world is very cruel"
+      },
+      {
+        "word": "accommodation",
+        "meaning": "chỗ trọ, chỗ ăn chỗ ở",
+        "example": "I will provide you free accommodation and free food"
+      },
+      {
+        "word": "reasonable",
+        "meaning": "có lý, hợp lý",
+        "example": "I will give you reasonable salary"
+      },
+      {
+        "word": "profit",
+        "meaning": "tiền lãi, lợi nhuận",
+        "example": "Where is my profit"
+      },
+      {
+        "word": "paradise",
+        "meaning": "thiên đường, nơi cực lạc",
+        "example": "It was fantastic I was in the paradise"
+      },
+      {
+        "word": "distract",
+        "meaning": "làm sao lãng, phân tâm",
+        "example": "Can't you see I am busy right now? Don't distract me. Finish your work quickly"
+      },
+      {
+        "word": "arrogant",
+        "meaning": "kiêu căng; ngạo mạn",
+        "example": "Tony is not a good boy, his sister is arrogant"
+      },
+      {
+        "word": "passed out",
+        "meaning": "bất tỉnh",
+        "example": "My dad passed out here, you gave my dad so much work"
+      },
+      {
+        "word": "prescription",
+        "meaning": "đơn thuốc",
+        "example": "He has to take medicines on time, here is the prescription"
+      },
+      {
+        "word": "sufficient",
+        "meaning": "đủ",
+        "example": "I am sorry madam, your card does not have sufficient balance"
+      },
+      {
+        "word": "deficiency",
+        "meaning": "sự thiếu hụt, sự không đầy đủ",
+        "example": "I have just vitamin D deficiency"
+      },
+      {
+        "word": "status",
+        "meaning": "địa vị, thân phận, thân thế",
+        "example": "How dare you talk to my brother like this? Don't forget your status, poor maid"
+      },
+      {
+        "word": "spirit",
+        "meaning": "tinh thần",
+        "example": "That's the spirit"
+      },
+      {
+        "word": "cheater",
+        "meaning": "người lừa đảo, người gian lận",
+        "example": "He was a cheater"
+      },
+      {
+        "word": "sort out",
+        "meaning": "giải quyết",
+        "example": "I will sort out this matter"
+      },
+      {
+        "word": "accuse",
+        "meaning": "buộc tội, kết tội; tố cáo",
+        "example": "You can't accuse on me like this"
+      },
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      },
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      },
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      },
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      },
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      },
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      },
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "SELFISH GIRL",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "FAKE LOVE",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "INNOCENT GIRL",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "STUBBORN GIRL",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "RICH AND POOR",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "JEALOUSY",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "GREEDY GIRL",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "CRAZY LOVE",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "ARROGANT GIRL",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "LOVE & MONEY",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "SACRIFICE",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "title": "GOLD DIGGER",
+    "list": [
+      {
+        "word": "",
+        "meaning": "",
+        "example": ""
       }
     ]
   }
